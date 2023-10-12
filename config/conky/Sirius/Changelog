@@ -1,0 +1,36 @@
+Changelog
+------------------------------
+Sirius - Conky Theme
+[ Leonis Themes Pack ] 
+
+by Closebox73
+------------------------------
+
+v1.0
+date : 12 Jul 2022
+-	Initial release
+
+
+v2.0
+date : 16 Nov 2022
+-	Add override_utf8_locale line
+-	Add tiles
+-	Change font from rubik to finlandica
+
+
+v2.4
+date : 02 Mar 2023
+- 	Edit a few lines script
+-	Add Changelog file
+-	Add license
+
+
+v2.9
+date : 20 Mar 2023
+- 	Add number file script that missing in v2.4
+- 	Fix Username command in v2.4
+-	New Weather.sh
+-	Add Fahrenheit Version
+-	Add Playerctl Version
+- 	Edit a few lines script
+
