@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "TrxMod21X Start Page",
+    "short_name": "TrxMod21X Start Page",
+    "version": "2.0.0",
+    "description": "Trx Start Page",
+    "applications": {
+      "gecko": {
+        "id": "what@is.this",
+        "strict_min_version": "54.0"
+      }
+    },
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "icons": {
+      "32": "assets/favicon/favicon-32.png",
+      "57": "assets/favicon/favicon-57.png",
+      "96": "assets/favicon/favicon-96.png",
+      "120": "assets/favicon/favicon-120.png"
+    },
+    "permissions": ["storage"]
+}
